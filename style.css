@@ -29,8 +29,8 @@ body {
 }
 
 .profile-img {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 5px solid #ffc0cb;
     object-fit: cover;
@@ -57,3 +57,4 @@ button:hover {
 button:active {
     background-color: #ff8fb2;
 }
+
