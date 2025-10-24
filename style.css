@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #ffd6e8, #ffb6c1);
+    background: linear-gradient(135deg, #ffd6e8, #c58e96);
     font-family: 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -58,5 +58,6 @@ button:hover {
 button:active {
     background-color: #ff8fb2;
 }
+
 
 
