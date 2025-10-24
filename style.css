@@ -32,7 +32,8 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 5px solid #ffc0cb;
+    border: 4px solid #ffc0cb;
+    box-shadow: 0 6px 15px rgba(255, 182, 193, 0.5);
     object-fit: cover;
     margin-bottom: 20px;
 }
@@ -41,7 +42,7 @@ button {
     background-color: #ffb6c1;
     color: #fff;
     border: none;
-    border-radius: 10px;
+    border-radius: 15px;
     padding: 10px 25px;
     font-size: 15px;
     cursor: pointer;
