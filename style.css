@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     background: linear-gradient(135deg, #ffd6e8, #c58e96);
-    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .card {
@@ -29,8 +29,8 @@ body {
 }
 
 .profile-img {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     border: 4px solid #ffc0cb;
     box-shadow: 0 6px 15px rgba(255, 182, 193, 0.5);
@@ -58,6 +58,7 @@ button:hover {
 button:active {
     background-color: #ff8fb2;
 }
+
 
 
 
